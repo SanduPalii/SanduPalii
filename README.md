@@ -9,8 +9,8 @@ As a passionate developer and 7 years of experience as a manager of some web-pro
 *   🌍  I'm based in Hämeenlinna, Finland
 *   🖥️  See my portfolio at [MyPortfolio](http://pasandor.com)
 *   ✉️  You can contact me at [palii.sandu@gmail.com](mailto:palii.sandu@gmail.com)
-*   🚀  I'm currently doing my internship in HAMK Smart
-*   🧠  I'm learning React Native, TypeScript, Tailwind
+*   🚀  Currently doing a CRM system, API openAi integrated
+*   🧠  VueJS, NextJs, React Native, TypeScript, Tailwind
 *   🤝  I'm open to collaborating on Projects
 
 ### Skills 
